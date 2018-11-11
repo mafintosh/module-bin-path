@@ -1,0 +1,18 @@
+{
+  "name": "module-bin-path",
+  "version": "0.0.0",
+  "description": "Get the absolute file path to a bin entry of an installed dependency",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/module-bin-path.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/module-bin-path/issues"
+  },
+  "homepage": "https://github.com/mafintosh/module-bin-path"
+}
