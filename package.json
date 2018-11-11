@@ -1,6 +1,6 @@
 {
   "name": "module-bin-path",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get the absolute file path to a bin entry of an installed dependency",
   "main": "index.js",
   "dependencies": {},
